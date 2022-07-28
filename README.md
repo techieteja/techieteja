@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Teja Sundeep 👋 😀</h1>
-<h3 align="left">A passionate full-stack web developer from India</h3>
+<h3 align="left">A passionate full-stack developer from India</h3>
 <img src="https://i.postimg.cc/zGyTkdL8/git-cover.jpg" alt="Teja Sundeep" style="max-width:100%;"></a>
 <p align="right">
   <a style="margin-left: 10px;" href="https://fb.com/iamtejasundeep" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamtejasundeep" height="30" width="40" /></a>
