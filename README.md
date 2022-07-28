@@ -10,13 +10,13 @@
 </p>
 <h3 align="left">About:</h3>
 
-- 🔭 Left [Facebook, Inc](https://www.facebook.com) few months back
+- 🔭 Ex-Developer at [Facebook, Inc](https://www.facebook.com)
 
 - 🌱 I’m currently learning **Python & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub](htps://www.github.com/techieteja)
 
-- 📝 I regularly write articles on [Dev.To](https://dev.to)
+- 📝 I regularly write algorithms on [Leetcode](https://leetcode.com/tejasundeep)
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstap, Jquery, Ajax, ReactJS, ExpressJS, NodeJS, MongoDB, Mysql, PHP, Python**
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tejasundeep](https://www.linkedin.com/in/tejasundeep)
 
-- ⚡ Fun fact: I speak 3 languages (English, Hindi, Telugu)
+- ⚡ Languages: I speak 3 languages (English, Hindi, Telugu)
 
 <h3 align="left">Languages and Tools:</h3>
 <p><a href="https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw" rel="nofollow"><img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a>
