@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">About:</h3>
 
-- 🔭 I’m currently working in [Facebook, Inc](https://www.facebook.com)
+- 🔭 Left [Facebook, Inc](https://www.facebook.com) few months back
 
 - 🌱 I’m currently learning **Python & Machine Learning**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to)
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstap, Jquery, Ajax, ReactJS, ExpressJS, NodeJS, MongoDB, Mysql, PHP**
+- 💬 Ask me about **HTML, CSS, JS, Bootstap, Jquery, Ajax, ReactJS, ExpressJS, NodeJS, MongoDB, Mysql, PHP, Python**
 
 - 📫 How to reach me **tsreddykarri@gmail.com**
 
