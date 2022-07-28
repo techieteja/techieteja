@@ -40,8 +40,7 @@
 <a href="https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw" rel="nofollow"><img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width:100%;"></a>
 <a href="https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw" rel="nofollow"><img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
 <a href="https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw" rel="nofollow"><img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"></a>
-<a href="https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw" rel="nofollow"><img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;"></a>
-<a href="https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw" rel="nofollow"><img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
+</p>
 
 <br><br><h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/tejasundeep"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techieteja" /></a></p>
